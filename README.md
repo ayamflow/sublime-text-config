@@ -29,7 +29,7 @@ I'm pretty sure some of them are overlapping but anyway:
 * [Hayaku](http://hayakubundle.com/): shortcuts for CSS property (like o:h = overflow:hidden)
 ### Utils
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile): easier file creation
-* []AngularInject](https://github.com/ayamflow/AngularInject): Fast AngularJS Dependency Injection. Also, I made this.
+* [AngularInject](https://github.com/ayamflow/AngularInject): Fast AngularJS Dependency Injection. Also, I made this.
 * [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Create, delete, rename, move…
 * [DuplicateSelections](https://github.com/colinta/SublimeDuplicateSelections): Better multi-cursor copy/past
 * [EasyMotion](https://github.com/tednaleid/sublime-EasyMotion): Kinda Vim cursor motion
