@@ -42,19 +42,20 @@
         // **User** "jshint_options". This issue affects users with tabs for indentation.
         // This fix was reverted due to a conflict with using the `"white": true` option.
         // "indent": 1,
-        "evil": true,
+        "evil": true, // "eval" triggers a warning
         "regexdash": true,
-        "browser": true,
         "wsh": true,
         "trailing": true,
         "sub": true,
+        "camelCase": true,
+        "curly": true,
         "smarttabs": false,
         "undef": true,
         "strict": false,
-        "browser": true,
-        "jquery": true,
+        "browser": true, // disable browser globals (document...) warnings
+        "jquery": true, // Disable jquery warnings
         "newcap": true,
-        "devel": true,
+        "devel": true, // Disable console.* warnings
         "globalstrict": true,
         "globals": {
             "angular": false,
@@ -72,12 +73,13 @@
             "Quint": false,
             "Strong": false,
             "Sine": false,
+            "require": false,
             "google": false,
             "createjs": false,
             "module": false,
-            "require": false,
-            "_gaq": false,
-            "_": false
+            "jasmine": false,
+            "_": false,
+            "_gaq": false
         }
     }
 }
