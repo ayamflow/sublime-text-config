@@ -16,7 +16,6 @@ I'm pretty sure some of them are overlapping but anyway:
 * [CSSLint](https://github.com/austinhappel/sublime-csslint): enable CSS validation
 * [DockBlockr](https://github.com/spadgos/sublime-jsdocs): Easy prettyprint creation
 * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter): validate every javascript file using JSHint and custom config file
-* [Unicode Character Highlighter](https://github.com/possan/sublime_unicode_nbsp): Highlight "wierd" characters in code
 ### Javascript
 * [TernJS](https://github.com/emmetio/sublime-tern): True IDE-like Javascript autocompletion
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel): Simple autocompletion for variables, functions...
@@ -26,18 +25,14 @@ I'm pretty sure some of them are overlapping but anyway:
 * [Tag](https://github.com/SublimeText/Tag): HTML tag autocompletion & autoclose
 ### CSS
 * [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle): Syntax coloring & autocompletion
-* [Hayaku](http://hayakubundle.com/): shortcuts for CSS property (like o:h = overflow:hidden)
 ### Utils
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile): easier file creation
-* []AngularInject](https://github.com/ayamflow/AngularInject): Fast AngularJS Dependency Injection. Also, I made this.
+* [AngularInject](https://github.com/ayamflow/AngularInject): Fast AngularJS Dependency Injection. Also, I made this.
 * [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Create, delete, rename, move…
-* [DuplicateSelections](https://github.com/colinta/SublimeDuplicateSelections): Better multi-cursor copy/past
 * [EasyMotion](https://github.com/tednaleid/sublime-EasyMotion): Kinda Vim cursor motion
 * [GitGutter](http://www.jisaacks.com/gitgutter): show git diff in gutter
-* [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value): Alt+Up/Down to modify a number
 * [Minifier](https://github.com/bistory/Sublime-Minifier): quickly minify a file with Closure or Uglify
 * [WordHighlight](https://github.com/SublimeText/WordHighlight): highlight all instances of selected word
-
 
 ## Theme
 * [Soda Dark](https://github.com/buymeasoda/soda-theme/) + Chrome tabs
@@ -46,3 +41,11 @@ I'm pretty sure some of them are overlapping but anyway:
 ## Snippets
 * console.log with log + tab
 * What else ?
+
+## Rarely used but useful from times to times
+* [Unicode Character Highlighter](https://github.com/possan/sublime_unicode_nbsp): Highlight "wierd" characters in code
+* [Hayaku](http://hayakubundle.com/): shortcuts for CSS property (like o:h = overflow:hidden)
+* [DuplicateSelections](https://github.com/colinta/SublimeDuplicateSelections): Better multi-cursor copy/past
+* [Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value): Alt+Up/Down to modify a number
+
+Otherwise, all listed plugins are used on a daily basis.
