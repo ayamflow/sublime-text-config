@@ -28,6 +28,8 @@ I'm pretty sure some of them are overlapping but anyway:
 ### Utils
 * [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile): easier file creation
 * [AngularInject](https://github.com/ayamflow/AngularInject): Fast AngularJS Dependency Injection. Also, I made this.
+* [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter): Highlight a string color with its matching color.
+* [FileSystem Autocompletion](https://github.com/lingo/sublime-fscompletion): Autocomplete paths. Useful for script imports.
 * [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements): Create, delete, rename, move…
 * [EasyMotion](https://github.com/tednaleid/sublime-EasyMotion): Kinda Vim cursor motion
 * [GitGutter](http://www.jisaacks.com/gitgutter): show git diff in gutter
